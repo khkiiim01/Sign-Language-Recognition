@@ -1,7 +1,5 @@
 # Sign Language Recognition Project
 
-![Project Logo](images/logo.png)
-
 ## 📖 Project Overview
 
 This project implements a real-time sign language recognition system using a Convolutional Neural Network (CNN) trained on the Sign Language MNIST dataset. It captures hand gestures from your webcam and predicts the corresponding alphabet letter.
@@ -9,7 +7,7 @@ This project implements a real-time sign language recognition system using a Con
 ## 🔧 Features
 
 * ✅ Real-time inference from webcam video feed
-* ✅ High-accuracy CNN model (`asl_cnn.h5`)
+* ✅ High-accuracy CNN model (`best_model.hdf5`)
 * ✅ Simple command-line interface
 
 ## 🚀 Getting Started
